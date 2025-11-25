@@ -5,6 +5,9 @@ The name is: **Backend Programming**.
 
 # Mapstructure.
 
+- index.php
+- style.php
+
 ### 1. PHP
 1.1 Introduction to PHP<br>
 1.2 The development environment<br>
