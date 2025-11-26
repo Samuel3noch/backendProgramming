@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Backend Programming</title>
-    <link rel="stylesheet" href="style. css">
+    <link rel="stylesheet" href="/backendProgramming/components/style.css">
 </head>
 <body>
     <header>
@@ -23,7 +23,7 @@
             <h3>1. PHP<h3>
         </section>
         <section>
-            <h3>2.DATA ANALYSIS
+            <h3>2.DATA ANALYSIS</h3>
         </section>
         <section> 
             <h3>3. INTRODUCTION TO MYSQL</h3>

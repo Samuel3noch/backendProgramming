@@ -1,8 +1,11 @@
 <!DOCTYPE html>
-<html> 
-    <head>
-        <title>My First PHP Page</title>
-    </head>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Test 1.2</title>
+    <link rel="stylesheet" href="/backendProgramming/components/knowledge_test.css">
+</head>
     <body>
         <h1>Knowledge test 1.2</h1>
 

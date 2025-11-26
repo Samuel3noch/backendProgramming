@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Knowledge Test</title>
-        <meta charset="UTF-8">
-    </head>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Test 1.1</title>
+    <link rel="stylesheet" href="/backendProgramming/components/knowledge_test.css">
+</head>
     <body>
         <h1>Knowledge Test 1.1: XAMPP Settings</h1>
         

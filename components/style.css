@@ -1,0 +1,39 @@
+/*This is the style.css file for the frontend of the webpage. */
+
+/* Reset and base styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    scroll-behavior: smooth;
+    font-family: "Poppins", sans-serif;
+}
+
+/* universal styles for in the website. */
+
+:root { 
+    --bg-color: #080808;
+    --second-bg-color: #131313;
+    --text-color: white;
+    --main-color: #00ffee; 
+}
+
+/* Base HTML styles for better scalability and layout control.  */
+
+html {
+    font-size: 60%;
+    overflow-x: hidden;
+}
+
+/* here will come the root colors for in the webpage. */
+
+
+/*Here goes everything without a class. */
+
+
+/*Here goes everything with a class. */
+
